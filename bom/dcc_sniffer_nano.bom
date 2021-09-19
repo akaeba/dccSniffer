@@ -1,0 +1,14 @@
+Bill of Material
+================
+
+Part        Value               Distributor     Ordernumber
+ARDUINO1                        ebay            Arduino Nano V3.0
+PCB                             aisler.net
+C1          1n                  Reichelt        X7R-2,5 1,0N
+C2          100n                Reichelt        X7R-2,5 100N
+D1          1N4148              Reichelt        1N 4148
+OK1         6N137               Reichelt        6N 137
+R1          1k                  Reichelt        METALL 1,00K
+R2          470                 Reichelt        METALL 470
+X1          RT034 Typ 086       Reichelt        AKL 086-02
+            Buchsenleiste       Reichelt        BL 1X36G7 2,54
