@@ -1,0 +1,22 @@
+# Eagle
+#
+pcb/*.s#?
+pcb/*.b#?
+pcb/*.l#?
+pcb/*.b$?
+pcb/*.s$?
+pcb/*.l$?
+pcb/*.s#*
+pcb/*.b#*
+pcb/*.lck
+pcb/eagle.epf
+
+
+
+# spice
+#
+*_sim/*/*.net
+*_sim/*/*.op
+*_sim/*/*.raw
+*_sim/*/*.lnk
+*_sim/*/*.log
