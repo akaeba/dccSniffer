@@ -4,8 +4,8 @@ Arduino based DCC Sniffer
 
 ## Gallery
 <p float="left">
-  <img src="./doc/readme/dcc_sniffer_pcb.jpg"     width="120" title="PCB"              alt="DCC Sniffer PCB"/>
-  <img src="./doc/readme/dcc_sniffer_afe.jpg"     width="340" title="Analog front end" alt="DCC Sniffer Analog Front End" />
+  <img src="./doc/readme/dcc_sniffer_pcb.jpg"     width="110" title="PCB"              alt="DCC Sniffer PCB"/>
+  <img src="./doc/readme/dcc_sniffer_afe.jpg"     width="335" title="Analog front end" alt="DCC Sniffer Analog Front End" />
   <img src="./doc/readme/dcc_sniffer_arduino.jpg" width="360" title="DCC Sniffer"      alt="DCC Sniffer with Arduino"/>
 </p>
 
